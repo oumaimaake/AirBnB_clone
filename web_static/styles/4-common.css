@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     margin: 0px;
     padding: 0px;
@@ -14,4 +15,19 @@ body {
 }
 html {
     position: relative;
+=======
+body{
+	margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+
+.container{
+    margin: auto;
+    max-width: 1000px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+>>>>>>> 158c62b19ea884ac9ea04d5d7e50bc0363331cac
 }

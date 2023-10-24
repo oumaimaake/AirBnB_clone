@@ -3,9 +3,21 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
+<<<<<<< HEAD
     background-image: url(../images/logo.png);
     background-repeat: no-repeat;
 }
 header.logo {
     margin-left: 20px;
+=======
+    display: flex;
+    align-items: center;
+}
+
+header .logo {
+    width: 142px;
+    height: 60px;
+    background: url("../images/logo.png") no-repeat center;
+    padding-left: 20px;
+>>>>>>> 158c62b19ea884ac9ea04d5d7e50bc0363331cac
 }
